@@ -4,7 +4,7 @@
 
 ## 需求
 
-![image-20220925132333831](/Users/lxavier/Library/Application Support/typora-user-images/image-20220925132333831.png)
+![image-20220925132333831](./images/demand.png)
 
 > 即用户可以通过在 SVC 上面的 annotation 字段上面添加 `ingress/http` 字段，自动化的创建相应的 `Nginx-Ingress`
 
